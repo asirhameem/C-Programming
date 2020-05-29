@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538250885 source:f:\my codes\odin\main.c
+	<stdio.h>
+	<stdlib.h>
+

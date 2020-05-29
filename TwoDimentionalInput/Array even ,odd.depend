@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524753659 source:f:\my codes\array even ,odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
